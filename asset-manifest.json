@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jobsCoddinges/static/css/main.1494c3b9.css",
+    "main.js": "/jobsCoddinges/static/js/main.8dbb0bf7.js",
+    "index.html": "/jobsCoddinges/index.html",
+    "main.1494c3b9.css.map": "/jobsCoddinges/static/css/main.1494c3b9.css.map",
+    "main.8dbb0bf7.js.map": "/jobsCoddinges/static/js/main.8dbb0bf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1494c3b9.css",
+    "static/js/main.8dbb0bf7.js"
+  ]
+}
